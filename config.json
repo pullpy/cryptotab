@@ -1,0 +1,15 @@
+{
+    "auth": "gAAAAABef04dJRsjadAg822H6F-W-rj5Ic1QMcWcXBZGEfHXJKggFe_lvDPoLGNZ5l8-Pvy-zFVL-zU8PPua6A8vLQAyHMSucg==",
+    "device": {
+        "8f05de80-3019-fa63-e3e4-86e9a0bef200": {
+            "sdk": "24",
+            "manufacturer": "Samsung",
+            "device": "jflte",
+            "model": "GT-I9505",
+            "product": "jfltexx",
+            "hardware": "",
+            "board": "38lh3120",
+            "brand": "Samsung"
+        }
+    }
+}
